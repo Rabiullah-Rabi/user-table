@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+table{
+  margin: 0 auto;
+}
+
+th{
+  background-color: #2563EB;
+  padding:20px 40px;
+  color:whitesmoke;
+  text-align:left;
+}
+td{
+  padding: 20px 40px;
+  margin: 5px 10px;
+}
+.table-data {
+  margin: 5px 10px;
+  text-align: left;
+  padding: 50px;
+  background-color:#f4f7ff;
+}
